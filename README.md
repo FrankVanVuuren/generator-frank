@@ -1,4 +1,4 @@
-# generator-frank [![Build Status](https://secure.travis-ci.org/frankvanvuuren/generator-frank.png?branch=master)](https://travis-ci.org/frankvanvuuren/generator-frank)
+# generator-frank [![Build Status](https://secure.travis-ci.org/FrankVanVuuren/generator-frank.png?branch=master)](https://travis-ci.org/FrankVanVuuren/generator-frank)
 
 > [Yeoman](http://yeoman.io) generator
 
