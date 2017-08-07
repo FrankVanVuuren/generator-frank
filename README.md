@@ -14,6 +14,12 @@ Absolutely nothing yet, but here are a couple of things that will have priority 
 - Generating [Angular](https://angularjs.org/) stuff.
 - Rocking a comfy development flow with [BrowserSync](http://www.browsersync.io/)
 
+## Uses
+* [Foto op aluminium](https://www.aluminiumland.nl)
+* [Foto op glas](https://www.fotoopglasland.nl)
+* [Tuinposter](https://www.tuinposterland.nl)
+* [foto op canvas](https://www.canvasland.nl)
+
 ## License
 
 MIT
